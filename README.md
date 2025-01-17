@@ -16,7 +16,6 @@ This repository provides a simple template for a web application using FastHTML 
 .
 ├── app.py                # Main application logic
 ├── homepage_content.py   # HTML content generation for the homepage
-├── sessions.db           # Persistent session storage (generated at runtime)
 ├── requirements.txt      # Python dependencies
 └── README.md             # Project documentation
 ```
