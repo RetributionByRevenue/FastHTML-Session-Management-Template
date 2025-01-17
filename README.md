@@ -47,7 +47,7 @@ This repository provides a simple template for a web application using FastHTML 
 
 ## Usage
 
-1. Open the application in your browser at `http://127.0.0.1:8000`.
+1. Open the application in your browser at `http://127.0.0.1:5001`.
 2. Login using the default credentials:
    - **Username**: `admin`
    - **Password**: `admin`
